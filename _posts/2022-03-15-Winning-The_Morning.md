@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 1%:% Win The Morning
+title: Part 1: Win The Morning
 ---
 
 
