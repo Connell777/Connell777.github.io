@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Part 1 Win The Morning
+permalink: /blog/
 ---
 
 
