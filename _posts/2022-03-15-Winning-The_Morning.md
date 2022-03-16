@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Win The Morning
+title: Part 1%:% Win The Morning
 ---
 
-Part 1: Win The Morning
 
 **Win The Morning**
 
